@@ -7,7 +7,7 @@ async function sendFonnte(data) {
 
     const customHeaders = {
         "Content-Type": "application/json",
-        Authorization: TOKEN,
+        Authorization: "ysCwdTwNQUE0q#4tn8vS",
     };
 
     const response = await fetch(url, {
